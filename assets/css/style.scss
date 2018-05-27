@@ -7,23 +7,35 @@
     background-image: url('{{ site.github.url }}/assets/images/header-background.jpg');
     background-size: cover;
     background-position: center center;
-    #header-menu {
-        margin-bottom: 20px;
-        border-bottom: 1px solid #999;
-        ul {
-            padding-left: 0;
-            li {
-                display: inline-block;
-                list-style: none;
-                margin-right: 10px;
-                padding-right: 10px;
-                border-right: 1px solid #999;
-                &:last-child {   
-                    margin-right: 0;
-                    padding-right: 0;
-                    border-right: none;
+    position: relative;
+    #header-wrapper {
+        position: relative;
+        z-index: 1;
+        #header-menu {
+            ul {
+                padding-left: 0;
+                li {
+                    display: inline-block;
+                    list-style: none;
+                    margin-right: 10px;
+                    padding-right: 10px;
+                    border-right: 1px solid #999;
+                    &:last-child {   
+                        margin-right: 0;
+                        padding-right: 0;
+                        border-right: none;
+                    }
                 }
             }
         }
+    }
+    #page-header-overlay {
+        background-color: rgba(0, 0, 0, 0.5);
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 0;
     }
 }
