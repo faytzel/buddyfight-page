@@ -15,3 +15,4 @@
 ## 3. Ranking
 
 La temporada de sol ya ha empezado, visita el [ranking](http://buddyfightmlg.opentheflag.com/ranking) para conocer tu posición.
+
