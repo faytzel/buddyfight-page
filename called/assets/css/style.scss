@@ -3,21 +3,25 @@
 
 @import 'jekyll-theme-cayman';
 
-#header-menu {
-    margin-bottom: 20px;
-    border-bottom: 1px solid #999;
-    ul {
-        padding-left: 0;
-        li {
-            display: inline-block;
-            list-style: none;
-            margin-right: 10px;
-            padding-right: 10px;
-            border-right: 1px solid #999;
-            &:last-child {   
-                margin-right: 0;
-                padding-right: 0;
-                border-right: none;
+#page-header {
+    background-image: url('{{ site.github.url }}/assets/images/header-background.png');
+    background-size: cover;
+    #header-menu {
+        margin-bottom: 20px;
+        border-bottom: 1px solid #999;
+        ul {
+            padding-left: 0;
+            li {
+                display: inline-block;
+                list-style: none;
+                margin-right: 10px;
+                padding-right: 10px;
+                border-right: 1px solid #999;
+                &:last-child {   
+                    margin-right: 0;
+                    padding-right: 0;
+                    border-right: none;
+                }
             }
         }
     }
