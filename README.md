@@ -1,4 +1,4 @@
-# Buddyfight Málaga
+# Incio
 
 ## 1. Iniciación
 
