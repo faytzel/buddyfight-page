@@ -10,23 +10,25 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <div id="header-menu">
-          <ul>
-              <li>
-                  <a href="{{ site.github.url }}">Inicio</a>
-              </li>
-              <li>
-                  <a href="{{ site.github.url }}/iniciacion">Iniciación</a>
-              </li>
-              <li>
-                  <a href="{{ site.github.url }}/ranking">Ranking</a>
-              </li>
-              <li>
-                  <a href="{{ site.github.url }}/calendario">Calendario</a>
-              </li>
-          </ul>
+      <div id="page-header-wrapper">
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        <div id="header-menu">
+            <ul>
+                <li>
+                    <a href="{{ site.github.url }}">Inicio</a>
+                </li>
+                <li>
+                    <a href="{{ site.github.url }}/iniciacion">Iniciación</a>
+                </li>
+                <li>
+                    <a href="{{ site.github.url }}/ranking">Ranking</a>
+                </li>
+                <li>
+                    <a href="{{ site.github.url }}/calendario">Calendario</a>
+                </li>
+            </ul>
+        </div>
       </div>
       <div id="page-header-overlay"></div>
     </section>
