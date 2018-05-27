@@ -1,5 +1,3 @@
-{% include nav.html %}
-
 # Ranking
 
 ## 1ª Temporada: Sol
