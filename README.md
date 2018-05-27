@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 # Inicio
 
 ## 1. Iniciación
