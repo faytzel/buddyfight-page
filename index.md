@@ -14,5 +14,5 @@
 
 ## 3. Ranking
 
-La temporada de sol ya ha empezado, visita el [ranking]({{ site.baseurl }}/ranking) para conocer tu posición.
+La temporada de sol ya ha empezado, visita el [ranking]({{ site.baseurl }}ranking) para conocer tu posición.
 
