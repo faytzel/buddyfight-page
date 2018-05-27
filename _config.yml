@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Buddyfight! Málaga
 description: Comunidad de Future Card Buddyfight! de Málaga (España)
-baseurl: http://buddyfightmlg.opentheflag.com/
+baseurl: /
 github:
   is_project_page: false
