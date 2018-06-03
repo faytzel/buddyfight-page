@@ -19,6 +19,7 @@
 | Sango | 0 |
 
 ### Torneo #1 (02/06/2018)
+
 | Posición | Nombre | Puntos obtenidos |
 | -------- | ------ | ---------------- |
 | 1 | Jose | 10 |
