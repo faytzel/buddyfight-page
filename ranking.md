@@ -3,7 +3,7 @@
 ## 1ª Temporada: Sol
 
 | Posición | Nombre | Puntos |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | 1 | Zhu | 69 |
 | 2 | Fernando | 65 |
 | 3 | Alberto | 51 |
