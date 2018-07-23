@@ -5,4 +5,4 @@
 
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZExuO3JZDO8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="300px" src="https://www.youtube-nocookie.com/embed/ZExuO3JZDO8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
