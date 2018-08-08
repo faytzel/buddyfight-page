@@ -4,18 +4,19 @@
 
 | Posición | Nombre | Puntos |
 | ------ | ------ | ------ |
-| 1 | Zhu | 69 |
-| 2 | Fernando | 65 |
-| 3 | Alberto | 51 |
-| 4 | Jose | 50 |
-| 5 | Gaby | 40 |
-| 6 | Juan Carlos | 30 |
-| 7 | Jesus | 25 |
-| 8 | Ana | 17 |
-| 9 | Mik | 16 |
-| 10 | Lorax | 15 |
-| 11 | Benito | 6 |
-| 12 | Dani | 2 |
+| 1 | Zhu | 96 |
+| 2 | Fernando | 89 |
+| 3 | Jose | 80 |
+| 4 | Gaby | 61 |
+| 5 | Alberto | 51 |
+| 6 | Lorax | 33 |
+| 7 | Juan Carlos | 30 |
+| 8 | Ana | 29 |
+| 9 | Jesus | 25 |
+| 10 | Mik | 16 |
+| 11 | Marta | 15 |
+| 12 | Benito | 6 |
+| 13 | Dani | 2 |
 
 ### Torneo #1 (02/06/2018)
 
@@ -56,3 +57,17 @@
 | 3 | Fernando | 24 |
 | 4 | Jesus | 21 |
 | 5 | Gaby | 18 |
+
+
+### Torneo #4 (28/07/2018)
+
+| Posición | Nombre | Puntos obtenidos |
+| -------- | ------ | ---------------- |
+
+| 1 | Jose | 30 |
+| 2 | Zhu | 27 |
+| 3 | Fernando | 24 |
+| 4 | Gaby | 21 |
+| 5 | Lorax | 18 |
+| 6 | Marta | 15 |
+| 7 | Ana | 12 |
