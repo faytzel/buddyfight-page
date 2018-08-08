@@ -8,3 +8,9 @@
 - [4º Temporada en Mega](https://mega.nz/#F!QTAXCRrS!f87v4G14jdlDN4BrSrxWmA)
 - [5º Temporada en Mega](https://mega.nz/#F!uHADTJiK!0DiL4RzE24lDzpimjc_eMg)
 - [6º Temporada en Mega](https://mega.nz/#F!TPxTnDBB!JCu9mw8CZigeZfpl55AUfQ)
+
+**Nota:** Recomendamos usar [VLC](https://www.videolan.org/vlc/index.es.html) para visualizar el anime descargado.
+
+### Agradecimientos
+
+Gracias a [Dream team scans](http://silverblizzard84.wixsite.com/dreamteamscans) por traducir el anime al español.
