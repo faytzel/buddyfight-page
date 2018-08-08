@@ -63,7 +63,6 @@
 
 | Posición | Nombre | Puntos obtenidos |
 | -------- | ------ | ---------------- |
-
 | 1 | Jose | 30 |
 | 2 | Zhu | 27 |
 | 3 | Fernando | 24 |
