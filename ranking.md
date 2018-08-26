@@ -2,6 +2,8 @@
 
 ## Temporada del Dragón
 
+### Totales
+
 | Posición | Nombre | Puntos |
 | ------ | ------ | ------ |
 | 1 | Jose M | 10 |
@@ -13,7 +15,7 @@
 
 ### Torneo #1 (25/08/2018)
 
-| Posición | Nombre | Puntos obtenidos |
+| Posición | Nombre | Puntos |
 | -------- | ------ | ---------------- |
 | 1 | Jose M | 10 |
 | 2 | Zhu | 9 |
