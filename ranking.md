@@ -11,7 +11,7 @@
 | 5 | Gaby | 6 |
 | 6 | Rafa | 5 |
 
-### Torneo #1 (11/08/2018)
+### Torneo #1 (25/08/2018)
 
 | Posición | Nombre | Puntos obtenidos |
 | -------- | ------ | ---------------- |
