@@ -19,6 +19,9 @@ Future Card Buddyfight (abreviado "Buddyfight") es un juego de cartas colecciona
 - __Impact (impacto):__ Una carta que sirve para acabar con el oponente, pero solo se puede activar en condiciones muy específicas y normalmente si el oponente tiene poca vida.
 - __Flag (bandera):__ Determina que tipos de cartas puedes llevar en el mazo.
 
-## ¿Te ha parecido interesante?
+## ¿Te ha parecido interesante el juego?
 
-Tienes más información del juego en nuestra <a href="{{ site.github.url }}/iniciacion">guía de iniciación</a> o en la <a href="https://en.fc-buddyfight.com" target="_blank">web oficial de Buddyfight</a>.
+Iníciate en Buddyfight con:
+- [Video para aprender a jugar](https://www.youtube.com/watch?v=ZExuO3JZDO8).
+- [Guía con las reglas básicas y los principales tipos de mazos de cartas](https://drive.google.com/file/d/1S02xmjpzA0UnjnlaLpdBMuEEPvCmP9EV/view?usp=sharing).
+- <a href="https://en.fc-buddyfight.com" target="_blank">Web oficial de Buddyfight</a>.
