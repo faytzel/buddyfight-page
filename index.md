@@ -22,6 +22,6 @@ Future Card Buddyfight (abreviado "Buddyfight") es un juego de cartas colecciona
 ## ¿Te ha parecido interesante el juego?
 
 Iníciate en Buddyfight con:
-- [Video para aprender a jugar](https://www.youtube.com/watch?v=ZExuO3JZDO8).
-- [Guía con las reglas básicas y los principales tipos de mazos de cartas](https://drive.google.com/file/d/1S02xmjpzA0UnjnlaLpdBMuEEPvCmP9EV/view?usp=sharing).
+- <a href="https://www.youtube.com/watch?v=ZExuO3JZDO8" target="_blank">Video para aprender a jugar</a>.
+- <a href="https://drive.google.com/file/d/1S02xmjpzA0UnjnlaLpdBMuEEPvCmP9EV/view?usp=sharing" target="_blank">Guía con las reglas básicas y los principales tipos de mazos de cartas</a>.
 - <a href="https://en.fc-buddyfight.com" target="_blank">Web oficial de Buddyfight</a>.
