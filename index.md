@@ -1,6 +1,4 @@
-# Inicio
-
-## ¿Qué es Future Card Buddyfight?
+# ¿Qué es Future Card Buddyfight?
 
 Future Card Buddyfight (abreviado "Buddyfight") es un juego de cartas coleccionables de 1vs1, que se lanzó simultáneamente en todo el mundo en 2014 por Bushiroad.
 
