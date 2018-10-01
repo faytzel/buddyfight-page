@@ -21,4 +21,4 @@ Future Card Buddyfight (abreviado "Buddyfight") es un juego de cartas colecciona
 
 ## ¿Te ha parecido interesante?
 
-Tienes más información del juego en nuestras <a href="{{ site.github.url }}/redes-sociales">redes sociales</a> o en la <a href="https://en.fc-buddyfight.com" target="_blank">web oficial de Buddyfight</a>.
+Tienes más información del juego en nuestra <a href="{{ site.github.url }}/iniciacion">guía de iniciación</a> o en la <a href="https://en.fc-buddyfight.com" target="_blank">web oficial de Buddyfight</a>.
