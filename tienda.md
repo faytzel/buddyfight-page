@@ -8,8 +8,8 @@
   <img src="{{ site.github.url }}/assets/images/shop/1-thumb.jpg">
 </a>
 
-__Precio:__ 25€
-__Vendedor:__ Jose M.
+- __Precio:__ 25€
+- __Vendedor:__ Jose M.
 
 
 ## 70€ o menos
