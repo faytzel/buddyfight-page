@@ -14,7 +14,6 @@
     <i>(Pulsa en la imagen para ampliarla)</i>
   </small>
 </div>
-<br>
 
 - __Precio:__ 25€
 - __Vendedor:__ Jose M.
