@@ -2,7 +2,7 @@
 
 ## 30€ o menos
 
-### Astrodragon - Star Dragon World
+### Nº1: Astrodragon - Star Dragon World
 
 <a href="{{ site.github.url }}/assets/images/shop/1.jpg" target="_blank">
   <img src="{{ site.github.url }}/assets/images/shop/1-thumb.jpg">
