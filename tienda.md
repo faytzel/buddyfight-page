@@ -9,7 +9,11 @@
   <img src="{{ site.github.url }}/assets/images/shop/1-thumb.jpg">
 </a>
 </div>
-<div><small><i>(Pulsa en la imagen para ampliarla)_</small></i></div>
+<div>
+  <small>
+    <i>(Pulsa en la imagen para ampliarla)</i>
+  </small>
+</div>
 <br>
 
 - __Precio:__ 25€
