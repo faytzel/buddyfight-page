@@ -1,5 +1,7 @@
 # Tienda
 
+Si te interesa algún decks (mazo de cartas) de los mostrados a continuación, ponte en contacto con nosotros a través de nuestro [Twitter](http://twitter.com/buddyfightmlg) o [Instagram](http://instagram.com/buddyfightmlg).
+
 ## 30€ o menos
 
 ### Astrodragon - Star Dragon World
