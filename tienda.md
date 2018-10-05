@@ -4,6 +4,22 @@ Si te interesa algún decks (mazo de cartas) de los mostrados a continuación, p
 
 ## 30€ o menos
 
+_Ninguno_
+
+## 70€ o menos
+
+_Ninguno_
+
+## 120€ o menos
+
+_Ninguno_
+
+## Más de 120€
+
+_Ninguno_
+
+## Vendidos
+
 ### Astrodragon - Star Dragon World
 
 <div>
@@ -18,15 +34,3 @@ Si te interesa algún decks (mazo de cartas) de los mostrados a continuación, p
 </div>
 - __Precio:__ 25€
 - __Vendedor:__ Jose M.
-
-## 70€ o menos
-
-_Ninguno_
-
-## 120€ o menos
-
-_Ninguno_
-
-## Más de 120€
-
-_Ninguno_
