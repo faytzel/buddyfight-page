@@ -57,7 +57,3 @@
 | 4 | Alberto | 7 |
 | 5 | Mik | 6 |
 | 6 | Jose | 5 |
-
-## Archivo
-
-- [#1 Temporada del Sol](http://buddyfightmlg.opentheflag.com/archive/ranking/temporada-del-sol)
